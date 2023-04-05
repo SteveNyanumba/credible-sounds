@@ -1,7 +1,7 @@
 {
     "instruments": [
       {
-        "id": "1",
+        "id": 1,
         "type": "Classical Guitar",
         "description": "Yamaha CPX 600",
         "Price": 12000,
@@ -9,7 +9,7 @@
        
       },
       {
-        "id": "2",
+        "id": 2,
         "type": "Electric Guitars",
         "description": " Yamaha BB234",
         "Price": 28999,
@@ -17,7 +17,7 @@
        
       },
       {
-        "id": "3",
+        "id": 3,
         "type": "Acoustic Guitar",
         "description": "Yamaha F310",
         "Price": 19999,
@@ -25,7 +25,7 @@
        
       },
       {
-        "id": "4",
+        "id": 4,
         "type": " Ukelele",
         "description": "CH#455",
         "Price": 24000,
@@ -33,7 +33,7 @@
        
       },
       {
-        "id": "5",
+        "id":5,
         "type":" Semi-Acoustic Guitar",
         "description": "YAmaha FGX800c",
         "Price": 24000,
@@ -41,7 +41,7 @@
        
       },
       {
-        "id": "6",
+        "id": 6,
         "type": "Grand Piano",
         "description": "Grand Piano (black)",
         "Price": 600000,
@@ -49,7 +49,7 @@
        
       },
       {
-        "id": "7",
+        "id": 7,
         "type": "Upright Piano",
         "description": "Brown Yamaha",
         "Price": 450000,
@@ -57,7 +57,7 @@
        
       },
       {
-        "id": "8",
+        "id": 8,
         "type": "Electric piano",
         "description": "YDP_103",
         "Price":345000,
@@ -65,7 +65,7 @@
        
       },
       {
-        "id": "9",
+        "id": 9,
         "type": "Keyboard",
         "description": "P123 88 key",
         "Price": 56000,
@@ -73,7 +73,7 @@
        
       },
       {
-        "id": "10",
+        "id": 10,
         "type": "Keyboard/piano",
         "description": "",
         "Price": 75000,
@@ -81,7 +81,7 @@
        
       },
       {
-        "id": "11",
+        "id": 11,
         "type": "Bass Guitar",
         "description": "Yamaha TRBX304",
         "Price": 45000,
@@ -89,7 +89,7 @@
        
       },
       {
-        "id": "12",
+        "id": 12,
         "type": "Drum KIT 1",
         "description": "CPK",
         "Price": 145000,
@@ -97,7 +97,7 @@
        
       },
       {
-        "id": "13",
+        "id": 13,
         "type": " Electric Drum KIT 2",
         "description": "DTX 453",
         "Price": 165000,
@@ -105,7 +105,7 @@
        
       },
       {
-        "id": "14",
+        "id": 14,
         "type": "Viola",
         "description": "VA5S Viola",
         "Price": 15000,
@@ -113,7 +113,7 @@
        
       },
       {
-        "id": "15",
+        "id": 15,
         "type": "Trumpet",
         "description": "YTR 3335",
         "Price": 45000,
