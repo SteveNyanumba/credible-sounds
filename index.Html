@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <Section class = "hero">
+    <Section class = "hero" id ="home">
         <div class="main-width">
             <header>
 
@@ -27,8 +27,8 @@
                     </div>
 
                     <ul class="nav-list">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Instruments</a></li>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#instruments">Instruments</a></li>
                         <li><a href="#">About us</a></li>
                         <li class="btn"><a href="#">Call to order</a></li>
                         
@@ -59,8 +59,35 @@
 
     </Section>
 
-    
+    <section id = "instruments">
+
+        <div class="navbar2">
+            <h1>Instruments available </h1>
+
+            <div class="main-cart"><i class="fa-solid fa-cart-shopping fa-beat"><p>0</p></i></div>
+        </div>
+        <div class="container2">
+            <div id="root"></div>
+            <div class="Sidebar">
+                <div class="Head"><p>CART</p></div>
+                <div id="cartItem">Your Cart is Empty</div>
+                <div class="foot">
+                    <h3>Total</h3>
+                    <h2 id="total"> ksh 0.00</h2>
+                </div>
+            </div>
+        </div>
+      
+        <div id ="container">
+            <div class="instrument">
+
+            </div>
+        </div>
+
+       
+   <!-- JS linking -->
+<script src="script.js"></script> 
+
 </body>
-<!-- JS linking -->
-<script src="script.js"></script>
+
 </html>
